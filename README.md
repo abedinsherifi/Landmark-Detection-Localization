@@ -15,7 +15,7 @@
 
 # Monocular Simultaneous Localization and Mapping - Mono SLAM
 ## Introduction
-The main goal of this project was to get exposed to Mono SLAM based on Extended Kalman Filter (EKF). I personally have been having a hard time understanding EKF especially the theory behind it. Nevertheless, applying EKF to monocular SLAM. However, Mono SLAM alone seemed doable to some degree. My efforts therefore are focused primarily on the Mono SLAM application to a video I took in Boston. <br>
+The main goal of this project was to get exposed to Mono SLAM based on Extended Kalman Filter (EKF). I personally have been having a hard time understanding EKF especially the theory behind it. Nevertheless, applying EKF to monocular SLAM. However, Mono SLAM alone seemed doable to some degree. My efforts therefore are focused primarily on the Mono SLAM application to a video I took in Boston. More info pertaining to SLAM in general can be found [*here*](https://www.mathworks.com/discovery/slam.html) <br>
 
 ## ORB Detector
 One of the first algorithms used was the ORB detector. One of the tasks within SLAM is the localization of landmarks in our environment. The ORB detector is a very good detector in localizing such landmarks. The ORB detector is a very fast and accurate detector which is based out of the FAST algorithm for keypoint detection and on the BRIEF algorithm for calculation of descriptors. Once keypoints are located on a frame, descriptors are matched from the current frame
