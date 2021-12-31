@@ -1,8 +1,5 @@
 """
 Abedin Sherifi
-RBE595
-HW4 Coding Assignment
-10/31/2020
 """
 
 """
