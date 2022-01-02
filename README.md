@@ -39,4 +39,4 @@ A snapshot of the 3D point cloud of landmarks and camera positions as well as OR
 
 ![](images/MonoSLAMCloud.png) <br>
 
-https://prespafree1.github.io/Mono-SLAM/
+https://abedinsherifi.github.io/Mono-SLAM/
