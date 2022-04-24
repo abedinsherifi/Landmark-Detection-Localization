@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/prespafree1/Mono-SLAM">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Mono-SLAM.svg">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Landmark-Detection-Localization.svg">
   </a>
   <a href="https://github.com/prespafree1/Mono-SLAM">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Mono-SLAM.svg">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Landmark-Detection-Localization.svg">
   </a>
-    <a href="https://github.com/prespafree1/Mono-SLAM/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/prespafree1/Mono-SLAM" /></a>
+    <a href="https://github.com/prespafree1/Landmark-Detection-Localization/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/prespafree1/Landmark-Detection-Localization" /></a>
 </p>
 
 # Landmark Detection and Localization
