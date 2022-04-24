@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=abedinsherifi)
 
 <p align="center">
-  <a href="https://github.com/prespafree1/Mono-SLAM">
+  <a href="https://github.com/prespafree1/Landmark-Detection-Localization">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Landmark-Detection-Localization.svg">
   </a>
-  <a href="https://github.com/prespafree1/Mono-SLAM">
+  <a href="https://github.com/prespafree1/Landmark-Detection-Localization">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Landmark-Detection-Localization.svg">
   </a>
     <a href="https://github.com/prespafree1/Landmark-Detection-Localization/graphs/contributors" alt="Contributors">
