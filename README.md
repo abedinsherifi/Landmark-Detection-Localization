@@ -3,14 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=abedinsherifi)
 
 <p align="center">
-  <a href="https://github.com/prespafree1/Landmark-Detection-Localization">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Landmark-Detection-Localization.svg">
+  <a href="https://github.com/abedinsherifi/Landmark-Detection-Localization">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/abedinsherifi/Landmark-Detection-Localization.svg">
   </a>
-  <a href="https://github.com/prespafree1/Landmark-Detection-Localization">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Landmark-Detection-Localization.svg">
+  <a href="https://github.com/abedinsherifi/Landmark-Detection-Localization">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/abedinsherifi/Landmark-Detection-Localization.svg">
   </a>
-    <a href="https://github.com/prespafree1/Landmark-Detection-Localization/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/prespafree1/Landmark-Detection-Localization" /></a>
+    <a href="https://github.com/abedinsherifi/Landmark-Detection-Localization/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/abedinsherifi/Landmark-Detection-Localization" /></a>
 </p>
 
 # Landmark Detection and Localization
